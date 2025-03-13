@@ -37,3 +37,19 @@ Body Style	 corresponde ao estilo corporal do carro
 Phone corresponde ao telefone do cliente
 
 Dealer_Region corresponde a região do revendedor
+
+
+
+
+
+2-Verificando se tem colunas com valores nulos
+
+Retiramos os valores nulos para ajudar o nosso estudo ja que alguns DataSets possuem alguns valores nulos
+
+
+
+
+
+3-Alteração de dados
+
+Alterei os dados pois valores com dados errados prejudica o andamento da analise atrapalhando assim atrapalhando os nossos estudos
